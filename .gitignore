@@ -1,0 +1,10 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Your specific files and folders
+/envjarvis
+contacts.csv
+jarvis.db
+/engine/__pycache__/
+/engine/cookies.json
