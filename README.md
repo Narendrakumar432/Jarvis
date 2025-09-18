@@ -31,13 +31,14 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 https://github.com/user-attachments/assets/fc319690-25fe-44b8-9a0a-c168c43047dc
 
 
-### 🎤 Speech to Text Recognition
-![Speech to Text](https://github.com/digambar2002/image-hosting/blob/main/e.gif)
-
-### opening web application 
-![Play Music in Spotify](https://github.com/digambar2002/image-hosting/blob/main/2.gif)
+### 🎤 Speech to Text Recognition & ### opening web application 
+https://github.com/user-attachments/assets/8f1dfed9-3838-4cad-949c-8ac23f538605
 
 ---
+
+
+
+
 
 ## 🛠️ Tech Stack
 
